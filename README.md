@@ -35,7 +35,8 @@ there are 8 categories in our classification task. The eight categories are:
 
 ## Configure the Training Session
 I created **two different models**: 
-**The first one** is composed by 7632 images of breast cancer divided in 2 classes: Benign and Malignant (125 iterations).
+### The first one 
+is composed by 7632 images of breast cancer divided in 2 classes: Benign and Malignant (125 iterations).
 <img width="841" alt="Screenshot 2022-03-30 at 17 08 20" src="https://user-images.githubusercontent.com/92536025/161568002-f4231267-c8dc-40ca-883a-f113fa8d9c36.png">
 
 The second one is composed by 6630 images and it’s divided in 8 Classes: there are four different density of breast cancer (300 iterations).
