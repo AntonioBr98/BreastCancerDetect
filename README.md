@@ -30,28 +30,44 @@ there are 8 categories in our classification task. The eight categories are:
 - (8) The category of breast density is 4 and breast mass is malignant (Density4+Malignant). <br/>
 
 ## Create ML
+<img width="648" alt="Screenshot 2022-03-30 at 17 06 45" src="https://user-images.githubusercontent.com/92536025/161567715-e17cc4df-9d0a-44a2-a6db-333038498974.png">
+
 
 ## Configure the Training Session
-I created **two different models**: <br/>
-
+I created **two different models**: 
 **The first one** is composed by 7632 images of breast cancer divided in 2 classes: Benign and Malignant (125 iterations).
+<img width="841" alt="Screenshot 2022-03-30 at 17 08 20" src="https://user-images.githubusercontent.com/92536025/161568002-f4231267-c8dc-40ca-883a-f113fa8d9c36.png">
 
 The second one is composed by 6630 images and it’s divided in 8 Classes: there are four different density of breast cancer (300 iterations).
+<img width="872" alt="Screenshot 2022-03-30 at 17 11 07" src="https://user-images.githubusercontent.com/92536025/161568068-12e95037-10a6-4c7c-84c6-ce22182efa00.png">
 
 ## Train the Image Classifier
 Create ML shows its progress in a graph, where the black and gray lines represent the model’s accuracy with the training and validation datasets, respectively.
+<img width="866" alt="Screenshot 2022-04-04 at 16 40 22" src="https://user-images.githubusercontent.com/92536025/161568715-72cc628f-dbd9-48ac-bc85-5457f578c304.png">
+
 
 ## Evaluation
 First model
+<img width="866" alt="Screenshot 2022-03-30 at 17 17 51" src="https://user-images.githubusercontent.com/92536025/161568843-6cda718a-c34e-436b-9c9a-7070abaf3598.png">
+
 
 Second Model
+<img width="866" alt="Screenshot 2022-03-30 at 17 17 57" src="https://user-images.githubusercontent.com/92536025/161568930-04b183e2-3a8d-4873-aa66-f10d511a4a4f.png">
+
 
 ## Preview
 Fist Model 
+<img width="847" alt="Screenshot 2022-03-30 at 17 19 49" src="https://user-images.githubusercontent.com/92536025/161569268-a3ef7b72-06da-491a-a2ec-99921c589eb4.png">
+
 
 Second Model
+<img width="854" alt="Screenshot 2022-03-30 at 17 20 14" src="https://user-images.githubusercontent.com/92536025/161569303-b136e487-3735-49b3-8f64-349426653bdd.png">
+
 
 ## App + Model 
+<img width="399" alt="Screenshot 2022-03-31 at 00 01 22" src="https://user-images.githubusercontent.com/92536025/161569643-f86937df-0125-4f61-8ac0-33ae9b5e8cbf.png">
+
+<img width="409" alt="Screenshot 2022-03-30 at 23 52 48" src="https://user-images.githubusercontent.com/92536025/161569351-6295405b-d1bd-4aa3-826f-bd52a73d091a.png">
 
 ## Conclusion
 Obviously the created model is not very accurate due to the lack of images in the dataset, therefore errors of evaluation can happen.
