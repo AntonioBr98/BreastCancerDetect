@@ -5,7 +5,6 @@ The aim of my project is to put into practice what i learned about Machine Learn
 by using CreateML and CoreML (with Vision and UIKit integrations).
 Below will be shown all the steps that I did to create a ML model for breast cancer detection.
 
-<br/>
 ## Breast Cancer
 Breast cancer is the most commonly occurring cancer in women and the second most common cancer overall.
 There were over 2 million new cases in 2021. 
