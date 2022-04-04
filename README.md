@@ -39,7 +39,8 @@ I created **two different models**:
 is composed by 7632 images of breast cancer divided in 2 classes: Benign and Malignant (125 iterations).
 <img width="841" alt="Screenshot 2022-03-30 at 17 08 20" src="https://user-images.githubusercontent.com/92536025/161568002-f4231267-c8dc-40ca-883a-f113fa8d9c36.png">
 
-The second one is composed by 6630 images and it’s divided in 8 Classes: there are four different density of breast cancer (300 iterations).
+### The second one 
+is composed by 6630 images and it’s divided in 8 Classes: there are four different density of breast cancer (300 iterations).
 <img width="872" alt="Screenshot 2022-03-30 at 17 11 07" src="https://user-images.githubusercontent.com/92536025/161568068-12e95037-10a6-4c7c-84c6-ce22182efa00.png">
 
 ## Train the Image Classifier
@@ -48,20 +49,20 @@ Create ML shows its progress in a graph, where the black and gray lines represen
 
 
 ## Evaluation
-First model
+### First model
 <img width="866" alt="Screenshot 2022-03-30 at 17 17 51" src="https://user-images.githubusercontent.com/92536025/161568843-6cda718a-c34e-436b-9c9a-7070abaf3598.png">
 
 
-Second Model
+### Second Model
 <img width="866" alt="Screenshot 2022-03-30 at 17 17 57" src="https://user-images.githubusercontent.com/92536025/161568930-04b183e2-3a8d-4873-aa66-f10d511a4a4f.png">
 
 
 ## Preview
-Fist Model 
+### Fist Model 
 <img width="847" alt="Screenshot 2022-03-30 at 17 19 49" src="https://user-images.githubusercontent.com/92536025/161569268-a3ef7b72-06da-491a-a2ec-99921c589eb4.png">
 
 
-Second Model
+### Second Model
 <img width="854" alt="Screenshot 2022-03-30 at 17 20 14" src="https://user-images.githubusercontent.com/92536025/161569303-b136e487-3735-49b3-8f64-349426653bdd.png">
 
 
