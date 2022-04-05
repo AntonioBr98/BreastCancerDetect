@@ -50,14 +50,17 @@ Create ML shows its progress in a graph, where the black and gray lines represen
 
 ## Evaluation
 ### First model
+I chose this model because it was the most accurate among all of them: Precision  Benign 93%, Malignant 92%
 <img width="866" alt="Screenshot 2022-03-30 at 17 17 51" src="https://user-images.githubusercontent.com/92536025/161568843-6cda718a-c34e-436b-9c9a-7070abaf3598.png">
 
 
 ### Second Model
+I chose this model because it was the most accurate even if the accuracy is low (due to the lack of images in the Dataset)
 <img width="866" alt="Screenshot 2022-03-30 at 17 17 57" src="https://user-images.githubusercontent.com/92536025/161568930-04b183e2-3a8d-4873-aa66-f10d511a4a4f.png">
 
 
 ## Preview
+There you can see if the model created can detect breast cancer with accuracy
 ### Fist Model 
 <img width="847" alt="Screenshot 2022-03-30 at 17 19 49" src="https://user-images.githubusercontent.com/92536025/161569268-a3ef7b72-06da-491a-a2ec-99921c589eb4.png">
 
